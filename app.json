@@ -1,0 +1,24 @@
+{
+  "id": "3faf19f3-863d-4de8-a8d7-663ca1b338f1",
+  "name": "BC365_VendorAction",
+  "publisher": "ClipDynamics",
+  "brief": "Action from Page VENDOR",
+  "description": "Action from Page VENDOR description",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://clipdynamics.com/privacyStatement",
+  "EULA": "http://clipdynamics.com/EULA",
+  "help": "http://clipdynamics.com/help",
+  "url": "http://clipdynamics.com",
+  "logo": "./logos/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.3.23590.23828",
+  "showMyCode": true,
+  "features": [ "TranslationFile" ],
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

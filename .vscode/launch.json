@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "BC365-Vendor Action",
+            "server": "http://BC365ES",
+            "serverInstance": "NAV",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page"
+        }
+    ]
+}
